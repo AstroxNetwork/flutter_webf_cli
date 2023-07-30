@@ -7,6 +7,7 @@
   },
   "scripts": {
     "build": "sh build.sh",
+    "build:mac": "sh build_macos.sh",
     "upload": "node scripts/upload.js"
   },
   "files": [
@@ -22,7 +23,7 @@
   "dependencies": {
     "chalk": "^2.4.2",
     "commander": "^5.1.0",
-    "qjsc": "^0.2.4",
+    "qjsc": "^0.3.0",
     "temp": "^0.9.1"
   },
   "devDependencies": {
