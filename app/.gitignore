@@ -42,3 +42,4 @@ app.*.map.json
 
 Podfile.lock
 pubspec.lock
+app.tar.gz
