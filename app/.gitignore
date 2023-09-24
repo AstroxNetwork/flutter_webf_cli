@@ -10,7 +10,6 @@
 .svn/
 
 # IntelliJ related
-*.iml
 *.ipr
 *.iws
 .idea/
@@ -41,5 +40,6 @@ app.*.symbols
 app.*.map.json
 
 Podfile.lock
+pubspec_overrides.yaml
 pubspec.lock
 app.tar.gz
