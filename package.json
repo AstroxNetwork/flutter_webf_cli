@@ -23,8 +23,8 @@
   "dependencies": {
     "chalk": "^2.4.2",
     "commander": "^5.1.0",
-    "qjsc": "workspace:*",
-    "temp": "^0.9.1"
+    "temp": "^0.9.1",
+    "@openwebf/wbc": "workspace:*"
   },
   "devDependencies": {
     "ali-oss": "^6.5.1",
